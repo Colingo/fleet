@@ -63,6 +63,12 @@ To see the process list across all your drones do:
 $ fleet ps
 ```
 
+To kill a drone by pid:
+
+```
+$ fleet stop dd2aee
+```
+
 commands
 ========
 
